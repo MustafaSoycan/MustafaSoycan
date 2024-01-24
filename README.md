@@ -1,4 +1,6 @@
 ### Hi there, my name is Mustafa and im a Frontend Developer based in Karlsruhe, Germany👋
+
+### In my current job as a Frontend Developer we are working with GitLab, so dont worry if my GitHub is a little empty :)
 I love web development and you can check out some of my projects in my portfolio: www.mustafa-soycan.com
 
 <!--
