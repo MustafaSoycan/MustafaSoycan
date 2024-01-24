@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate frontend developer based in Karlsruhe, Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafasoycan&label=Profile%20views&color=0e75b6&style=flat" alt="mustafasoycan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafasoycan" alt="mustafasoycan" /></a> </p>
-
 - 🔭 I’m currently working on my new project [DaBubble](https://dabubble.mustafa-soycan.com/)
 
 - 🌱 I’m currently learning to get better at these frameworks: **Angular, Vue 3**
