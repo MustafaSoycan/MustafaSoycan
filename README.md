@@ -1,15 +1,12 @@
 ### Hi there, my name is Mustafa and im a Frontend Developer based in Karlsruhe, Germany👋
 
 ### In my current job as a Frontend Developer we are working with GitLab, so dont worry if my GitHub is a little empty :)
-I love web development and you can check out some of my projects in my portfolio: www.mustafa-soycan.com
 
-<!--
-**MustafaSoycan/MustafaSoycan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 You can find my projects in my public portfolio: www.mustafa-soycan.com
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
