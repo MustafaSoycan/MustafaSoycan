@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, my name is Mustafa and im a Frontend Developer based in Karlsruhe, Germany👋
+I love web development and you can check out some of my projects in my portfolio: www.mustafa-soycan.com
 
 <!--
 **MustafaSoycan/MustafaSoycan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
