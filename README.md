@@ -8,5 +8,5 @@ So dont worry if my GitHub is a little empty :-)</h3>
 **<p>📱 Feel free to check out my portfolio: [https://mustafa-soycan.com/](https://mustafa-soycan.com/)</p>**
 
 
-**<p>📧 How you can reach me: mail@mustafa-soycan.com</p>**
+**<p>📧 How you can reach me: kontakt@mustafa-soycan.de</p>**
 
